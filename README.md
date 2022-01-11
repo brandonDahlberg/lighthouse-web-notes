@@ -1,3 +1,5 @@
+# BRANDON'S NOTES
+
 ## Summary
 
-This repository contains all of the notes taken by Brandon Dahlberg for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Brandon Dahlberg](https://github.com/JediMind21) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
